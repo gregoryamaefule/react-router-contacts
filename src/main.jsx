@@ -11,7 +11,7 @@ import Root, {
   loader,
 
 
-} from "./routes/root";
+} from "./routes/Root";
 import ErrorPage from "./error-page";
 import Contact, {
   loader as contactLoader
